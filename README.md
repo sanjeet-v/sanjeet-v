@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a current freshman at the University of Texas at Dallas. 
+I am a current sophmore at the University of Texas at Dallas. 
 
 
 # 💻 Tech Stack:
